@@ -13,3 +13,6 @@ require "test_bench"; TestBench.activate
 
 require "pp"
 
+require 'smtp/email/controls'
+
+Controls = SMTP::Email::Controls

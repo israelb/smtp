@@ -1,5 +1,6 @@
 .bundle/
+.byebug_history
 Gemfile.lock
 *.gem
 gems
-settings/message_store_postgres.json
+settings/smtp_email.json
